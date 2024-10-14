@@ -1,2 +1,1 @@
-# DavidPucciarelli.github.io
-A Portfolio
+# DavidPucciarelli.github.io/portfolio
